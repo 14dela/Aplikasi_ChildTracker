@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "117997745015",
+    "firebase_url": "https://child-tracker-8941e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "child-tracker-8941e",
+    "storage_bucket": "child-tracker-8941e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117997745015:android:3dd4d04fac92af853ee772",
+        "android_client_info": {
+          "package_name": "com.example.map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-bcQRaciJUP4y1-KY0irz3M6f4kN77s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

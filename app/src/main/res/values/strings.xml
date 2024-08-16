@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">map</string>
+    <string name="now_location1">Gelang 1</string>
+    <string name="now_location2">Gelang 2</string>
+    <string name="error_msg">Error Data Fetching</string>
+    <string name="keluargps1">Gelang1 Keluar Area</string>
+    <string name="keluargps2">Gelang2 Keluar Area</string>
+    <string name="notification_granted">Izin Notifikasi Diberikan</string>
+    <string name="notification_ungranted">Izin Notifikasi Tidak Diberikan</string>
+</resources>

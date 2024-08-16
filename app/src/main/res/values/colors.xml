@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="kidpurple">#F8E3FF</color>
+    <color name="godpurple">#ECC6F9</color>
+    <color name="youngpurple">#D269E6</color>
+    <color name="badpurple">#701D80</color>
+
+
+    //color switch
+    <color name="unchecked_thumb">#848484</color>
+    <color name="checked_thumb">#EBB8B8</color>
+    <color name="unchecked_track">#E1DEDE</color>
+    <color name="checked_track">#FF0000</color>
+
+
+</resources>
